@@ -1,0 +1,72 @@
+[
+  {
+  "brand":"nyx",
+  "description":"Perfect for Spring Summer and beyond – the Matte Bronzers have arrived! Achieve a natural and healthy looking complexion using any of the powder bronzers available in five russet shades. Perfect for that desired honey glow all year long!",
+  "id":151,
+  "image_link":"https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dwed153ea9/ProductImages/Face/Matte_Bronzer/800897809058_mattebronzer_light_main.jpg?sw=390&sh=390&sm=fit",
+  "name":"Matte Bronzer",
+  "price":"999"
+  },
+  {
+  "brand":"nyx",
+  "description":"It takes two to tango with our brilliant bronzing powder to kickstart your look. Our mosaic bronzer shades create a golden glow on the face and body—like you’ve just returned from a Caribbean getaway. Sun-kissed never looked this beautiful.",
+  "id":152,
+  "image_link":"https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw99f3e999/ProductImages/Face/Tango_With_Bronzing_Powder/tangowithbronzingpowder_main.jpg?sw=390&sh=390&sm=fit",
+  "name":"Tango With Bronzing Powder",
+  "price":"799"
+  },
+  {
+  "brand":"nyx",
+  "description":"Get swept away by our drop-dead gorgeous Sweet Cheeks Blush Palette. This collection features eight highly pigmented and buttery-smooth colors that flawlessly suit any skin tone. Perfect for everyone from the pro on the go to the budding beauty guru, our irreplaceable set brings together a variety of exclusive shades in both matte and shimmery finishes. It’s true--we’ve got a serious blush crush!",
+  "id":153,
+  "image_link":"https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw99f3e999/ProductImages/Face/Tango_With_Bronzing_Powder/tangowithbronzingpowder_main.jpg?sw=390&sh=390&sm=fit",
+  "name":"Sweet Cheeks Blush Palette",
+  "price":"499"
+  },
+  {
+  "brand":"nyx",
+  "description":"It takes two to tango with our brilliant bronzing powder to kickstart your look. Our mosaic bronzer shades create a golden glow on the face and body—like you’ve just returned from a Caribbean getaway. Sun-kissed never looked this beautiful.",
+  "id":92,
+  "image_link":"https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw99f3e999/ProductImages/Face/Tango_With_Bronzing_Powder/tangowithbronzingpowder_main.jpg?sw=390&sh=390&sm=fit",
+  "name":"Tango With Bronzing Powder",
+  "price":"199"
+  },
+   {
+    "brand":"nyx", 
+    "id": 3493, 
+      "name": "Maskara Essence",
+      "price": "299", 
+      "description":"Perfect for Spring Summer and beyond – the Matte Bronzers have arrived! Achieve a natural and healthy looking complexion using any of the powder bronzers available in five russet shades. Perfect for that desired honey glow all year long!",
+      "image_link": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/1.png" },
+    { "id": 4724, 
+    "name": "Red Lipstick", 
+    "price": "499", 
+    "description":"It takes two to tango with our brilliant bronzing powder to kickstart your look. Our mosaic bronzer shades create a golden glow on the face and body—like you’ve just returned from a Caribbean getaway. Sun-kissed never looked this beautiful.",
+
+    "image_link": "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/thumbnail.png" },
+    { "id": 6973, 
+    "name": "Calvin Klein frangrances", 
+    "price": "999", 
+    "image_link": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/2.png" },
+    { "id": 3742, 
+    "name": "Chanel Fragrances",
+    "price": "999",
+    "description":"Get swept away by our drop-dead gorgeous Sweet Cheeks Blush Palette. This collection features eight highly pigmented and buttery-smooth colors that flawlessly suit any skin tone. Perfect for everyone from the pro on the go to the budding beauty guru, our irreplaceable set brings together a variety of exclusive shades in both matte and shimmery finishes. It’s true--we’ve got a serious blush crush!",
+    "image_link": "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/3.png" },
+    { "id": 8763, 
+    "name": "Red Nailpolish", 
+    "price": "199", 
+    "image_link": "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/1.png" },
+    { "id": 9734, 
+    "name": "Canister", 
+    "price": "999", 
+    "description":"Perfect for Spring Summer and beyond – the Matte Bronzers have arrived! Achieve a natural and healthy looking complexion using any of the powder bronzers available in five russet shades. Perfect for that desired honey glow all year long!",
+    "image_link": "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/1.png" },
+    { "id": 9874, 
+    "name": "EyeShadow", 
+    "price": "399", 
+    "description":"Get swept away by our drop-dead gorgeous Sweet Cheeks Blush Palette. This collection features eight highly pigmented and buttery-smooth colors that flawlessly suit any skin tone. Perfect for everyone from the pro on the go to the budding beauty guru, our irreplaceable set brings together a variety of exclusive shades in both matte and shimmery finishes. It’s true--we’ve got a serious blush crush!",
+    "image_link": "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/1.png" }
+    
+  ]
+  
